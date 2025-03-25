@@ -1,0 +1,4 @@
+-- AlterTable
+ALTER TABLE "Workout" ALTER COLUMN "name" DROP NOT NULL,
+ALTER COLUMN "duration" DROP NOT NULL,
+ALTER COLUMN "calories" DROP NOT NULL;
