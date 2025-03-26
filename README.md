@@ -9,3 +9,4 @@ npx prisma generate; npx prisma studio;
 npm run dev
 ```
 There's already a user with email: test@example.com and password: password123
+Preview: https://jerklog-hkkhan-h-ks-projects.vercel.app
